@@ -11,9 +11,6 @@ Front-end Developer
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Open Source Projects
 
-<a href="https://www.github.com/Mohdimran07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mohdimran07?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
-
 ### Skills
 
 
