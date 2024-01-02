@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-🚀 Crafting Dynamic Interfaces with React & Angular! 🎨 Welcome to my frontend haven! In this repository, I showcase my passion for creating immersive user interfaces using React and Angular. Explore a diverse collection of projects, from interactive React components that enhance user experiences to Angular applications boasting robust architecture and seamless functionality. My journey reflects not just expertise but a dedication to innovation, best practices, and user-centric design, making web applications come alive! 🌟 Key Highlights: 1. Innovative React components and interactive UIs 2. Angular apps with robust architecture and smooth functionality 3. Emphasis on user-centric design and best practices 4. Continuous learning and growth in frontend craftsmanship
+🚀 Crafting Dynamic Interfaces with React & Angular! 🎨 Welcome to my frontend haven! In this repository, I showcase my passion for creating immersive user interfaces using React and Angular. Explore a diverse collection of projects, from interactive React components that enhance user experiences to Angular applications boasting robust architecture and seamless functionality. My journey reflects not just expertise but a dedication to innovation, best practices, and user-centric design, making web applications come alive! 
+
+🌟 **Key Highlights:** 
+1. Innovative React components and interactive UIs
+2. Angular apps with robust architecture and smooth functionality
+3. Emphasis on user-centric design and best practices
+4. Continuous learning and growth in frontend craftsmanship
+   
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Mohdimran97057@gmail.com](mailto:Mohdimran97057@gmail.com)
